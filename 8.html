@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style media="screen">
+    *{margin: 0; padding: 0;}
+    header{background-color: red; height: 60px; text-align: center;}
+    section{background-color: skyblue; height: 60px; position: relative;}
+    section h1{
+    position: absolute;
+    left: 50%; top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    }
+    footer{background-color: pink; height: 60px; position: relative;}
+    footer h1{float: left; position: absolute; left: 50%; top: 50%;
+              transform: translateX(-50%) translateY(-50%);}
+    #div1{background-color: rgb(221, 255, 125); height: 60px; position: relative; display: none;}
+    #div2{background-color: rgb(195, 162, 255); height: 60px; position: relative; display: none;}
+    #div3{background-color: rgb(217, 205, 255); height: 60px; position: relative; display: none;}
+  </style>
+  <script type="text/javascript" src="8.js">
+
+  </script>
+</head>
+<body>
+
+  <header>
+    <h1 id="header">클릭하세용</h1>
+
+  </header>
+  <div id="div1"></div>
+  <section>
+    <h1 id="section"> 클릭해보세용</h1>
+  </section>
+  <div id="div2"></div>
+  <footer>
+    <h1 id=footer> 꾹 눌러보세용 </h1>
+  </footer>
+  <div id="div3"></div>
+
+
+</body>
+</html>
