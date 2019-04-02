@@ -1,0 +1,146 @@
+*{margin: 0; padding: 0;}
+.top{width: 1680px; height: 36px;
+    background-color: rgb(247, 115, 115);
+    position: relative;}
+.top1{width: 53px; height: 24px;
+      background-color: rgb(220, 255, 162);
+      position: absolute;
+      top: 7px;
+      left: 1094px;
+      display: inline-block;}
+.top2{width: 53px; height: 24px;
+      background: rgb(220, 255, 162);
+      position: absolute;
+      top: 7px;
+      left: 1155px;
+      display: inline-block;}
+.top3{width: 53px; height: 24px;
+      background: rgb(220, 255, 162);
+      position: absolute;
+      top: 7px;
+      left: 1226px;
+      display: inline-block;}
+.top4{width: 53px; height: 24px;
+      background: rgb(220, 255, 162);
+      position: absolute;
+      top: 7px;
+      left: 1294px;
+      display: inline-block;}
+.top5{width: 53px; height: 24px;
+      background-color: rgb(220, 255, 162);
+      position: absolute;
+      top: 7px;
+      left: 1351px;
+      display: inline-block;}
+.header{width: 1680px; height: 126px;
+        background-color: rgb(188, 158, 255);
+        position: relative;}
+.header1{width: 287px; height: 100px;
+        background-color: rgb(135, 28, 102);
+        position: absolute;
+        top: 3px;
+        left: 278px;}
+.header2{width: 128px; height: 107px;
+        background-color: rgb(135, 28, 102);
+        position: absolute;
+        top: 0;
+        left: 778px;}
+        .header3{width: 106px; height: 35px;
+                background-color: rgb(135, 28, 102);
+                position: absolute;
+                top: 61px;
+                left: 1120px;}
+                .header4{width: 106px; height: 35px;
+                        background-color: rgb(135, 28, 102);
+                        position: absolute;
+                        top: 61px;
+                        left: 1265px;}
+.car{width: 1680px; height: 53px;
+    background-color: rgb(120, 255, 182);
+    position: relative;}
+.car1{width: 74px; height: 24px;
+      background-color: rgb(142, 218, 255);
+      position: absolute;
+      top: 14px;
+      left: 335px;
+      display: inline-block;}
+.car2{width: 58px; height: 23px;
+      background-color: rgb(142, 218, 255);
+      position: absolute;
+      top: 14px;
+      left: 504px;}
+.car3{width: 72px; height: 20px;
+  background-color: rgb(142, 218, 255);
+  position: absolute;
+  top: 14px;
+  left: 658px;}
+.car4{width: 62px; height: 21px;
+  background-color: rgb(142, 218, 255);
+  position: absolute;
+  top: 14px;
+  left: 824px;}
+.car5{width: 60px; height: 24px;
+  background-color: rgb(142, 218, 255);
+  position: absolute;
+  top: 14px;
+  left: 986px;}
+.car6{width: 290px; height: 30px;
+  background-color: rgb(142, 218, 255);
+  position: absolute;
+  top: 12px;
+  left: 1095px;}
+.main{width: 1680px; height: 395px;
+      background-color: rgb(108, 171, 144);
+      position: relative;}
+.mian{width: 1680px; height: 567px;
+      background-color: rgb(220, 217, 255);
+      position: relative;}
+.mian1{width: 114px; height: 37px;
+      background-color: rgb(255, 208, 128);
+      position: absolute;
+      top: 47px;
+      left: 784px;
+    overflow: hidden;}
+.mian2{width: 543px; height: 376px;
+  background-color: rgb(255, 208, 128);
+  position: absolute;
+  top: 102px;
+  left: 290px;
+  overflow: hidden;}
+.mian3{width: 543px; height: 376px;
+  background-color: rgb(255, 208, 128);
+  position: absolute;
+  top: 102px;
+  left: 847px;
+}
+.mmm{width: 1680px; height: 696px;
+    background-color: rgb(20, 80, 152);
+    position: relative;}
+.mmm1{width: 155px; height: 44px;
+      background-color: rgb(82, 29, 79);
+      position: absolute;
+      top: 39px;
+      left: 765px;}
+.mmm2{width: 92px; height: 34px;
+  background-color: rgb(82, 29, 79);
+  position: absolute;
+  top: 110px;
+  left: 642px;}
+.mmm3{width: 92px; height: 34px;
+  background-color: rgb(82, 29, 79);
+  position: absolute;
+  top: 110px;
+  left: 733px;}
+.mmm4{width: 92px; height: 34px;
+  background-color: rgb(82, 29, 79);
+  position: absolute;
+  top: 110px;
+  left: 825px;}
+.mmm5{width: 92px; height: 34px;
+  background-color: rgb(82, 29, 79);
+  position: absolute;
+  top: 110px;
+  left: 915px;}
+.footer{width: 1680px; height: 148px;
+        background-color: rgb(224, 255, 190);
+        position: relative;}  
